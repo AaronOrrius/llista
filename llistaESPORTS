@@ -1,0 +1,68 @@
+
+
+
+#EXTVLCOPT:http-reconnect=true 
+#EXTINF:-1,Gol Mundial HD
+#EXTVLCOPT:program=29909
+http://185.107.104.199:8001/1:0:19:74D5:3F8:1:C00000:0:0:0:
+
+
+#EXTVLCOPT:http-reconnect=true 
+#EXTINF:-1,Gol Mundial 2 HD
+#EXTVLCOPT:program=29915
+http://185.107.104.199:8001/1:0:19:74DB:3F8:1:C00000:0:0:0:
+
+
+
+
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true 
+#EXTINF:-1,DAZN LaLigaHD
+http://185.107.104.199:8001/1:0:19:7884:414:1:C00000:0:0:0:
+
+
+#EXTVLCOPT:http-reconnect=true 
+#EXTINF:-1,M+ LaLiga HD
+http://185.107.104.199:8001/1:0:19:750F:420:1:C00000:0:0:0:
+
+#EXTVLCOPT:http-reconnect=true 
+#EXTINF:-1,M+LCAMPEONES
+http://185.107.104.199:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:
+
+#EXTVLCOPT:http-reconnect=true 
+#EXTINF:-1,M+ DEPORTES HD
+http://185.107.104.199:8001/1:0:19:7828:428:1:C00000:0:0:0:
+
+
+#EXTVLCOPT:http-reconnect=true 
+#EXTINF:-1,M+ #VAMOSHD
+http://185.107.104.199:8001/1:0:19:750A:420:1:C00000:0:0:0:
+
+
+#EXTVLCOPT:http-reconnect=true 
+#EXTINF:-1,DAZN F1 HD
+http://185.107.104.199:8001/1:0:19:7531:426:1:C00000:0:0:0:
+
+#EXTVLCOPT:http-reconnect=true 
+#EXTINF:-1,DAZN 1 HD
+http://185.107.104.199:8001/1:0:19:7855:41A:1:C00000:0:0:0:
+
+#EXTVLCOPT:http-reconnect=true 
+#EXTINF:-1,DAZN 2 HD
+http://185.107.104.199:8001/1:0:19:785F:41A:1:C00000:0:0:0:
+
+
+#EXTVLCOPT:http-reconnect=true 
+#EXTINF:-1,EUROSPORT1HD
+http://185.107.104.199:8001/1:0:19:7826:428:1:C00000:0:0:0:
+
+
+
+#EXTVLCOPT:http-reconnect=true 
+#EXTINF:-1,TELEDEPORTE
+http://192.168.88.222:8002/1:0:1:76CC:40E:1:C00000:0:0:0:
+
+
+
+
+
