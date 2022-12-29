@@ -1,6 +1,7 @@
 
 
 
+
 #EXTVLCOPT:http-reconnect=true 
 #EXTINF:-1,Gol Mundial HD
 #EXTVLCOPT:program=29909
@@ -56,6 +57,86 @@ http://185.107.104.199:8001/1:0:19:785F:41A:1:C00000:0:0:0:
 #EXTINF:-1,EUROSPORT1HD
 http://185.107.104.199:8001/1:0:19:7826:428:1:C00000:0:0:0:
 
+
+
+#EXTVLCOPT:http-reconnect=true 
+#EXTINF:-1,TELEDEPORTE
+http://192.168.88.222:8002/1:0:1:76CC:40E:1:C00000:0:0:0:
+
+
+http://185.107.104.199:8001/1:0:19:7884:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="29910" tvg-logo="http://185.107.104.199/images/default_picon.png" tvg-id="1:0:19:74D6:3F8:1:C00000:0:0:0:" tvg-name="LigaSmartBankHD",LigaSmartBankHD
+
+
+http://185.107.104.199:8001/1:0:1:7607:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30202" tvg-logo="http://185.107.104.199/images/default_picon.png" tvg-id="1:0:1:75FA:408:1:C00000:0:0:0:" tvg-name="Liga SmartBank 2",Liga SmartBank 2
+
+
+
+
+http://185.107.104.199:8001/1:0:19:74D8:3F8:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30214" tvg-logo="http://185.107.104.199/images/default_picon.png" tvg-id="1:0:1:7606:408:1:C00000:0:0:0:" tvg-name="Liga SmartBank 3",Liga SmartBank 3
+#EXTVLCOPT:program=30214
+
+
+
+
+
+#EXTVLCOPT:program=29910
+http://185.107.104.199:8001/1:0:19:74D6:3F8:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30803" tvg-logo="http://185.107.104.199/images/default_picon.png" tvg-id="1:0:19:7853:41A:1:C00000:0:0:0:" tvg-name="M+LaLigaTV2HD",M+LaLigaTV2HD
+
+http://185.107.104.199:8001/1:0:19:74D5:3F8:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="29915" tvg-logo="http://185.107.104.199/picon/1_0_19_74DB_3F8_1_C00000_0_0_0.png" tvg-id="1:0:19:74DB:3F8:1:C00000:0:0:0:" tvg-name="M+LCAMPEON3",M+LCAMPEON3
+
+
+http://185.107.104.199:8001/1:0:1:768E:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="29901" tvg-logo="http://185.107.104.199/picon/1_0_19_74CD_3F8_1_C00000_0_0_0.png" tvg-id="1:0:19:74CD:3F8:1:C00000:0:0:0:" tvg-name="M+LaLigaTV3HD",M+LaLigaTV3HD
+#EXTVLCOPT:program=29901
+
+
+
+http://185.107.104.199:8001/1:0:19:74CD:3F8:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="29902" tvg-logo="http://185.107.104.199/images/default_picon.png" tvg-id="1:0:19:74CE:3F8:1:C00000:0:0:0:" tvg-name="DAZN LaLiga2 HD",DAZN LaLiga2 HD
+
+
+http://185.107.104.199:8001/1:0:1:7606:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30680" tvg-logo="http://185.107.104.199/images/default_picon.png" tvg-id="1:0:1:77D8:40A:1:C00000:0:0:0:" tvg-name="M+LCAMPEON4",M+LCAMPEON4
+#EXTVLCOPT:program=30680
+
+http://185.107.104.199:8001/1:0:1:77D8:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30660" tvg-logo="http://185.107.104.199/images/default_picon.png" tvg-id="1:0:1:77C4:40A:1:C00000:0:0:0:" tvg-name="M+LCAMPEON5",M+LCAMPEON5
+#EXTVLCOPT:program=30660
+
+http://185.107.104.199:8001/1:0:1:77C4:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30222" tvg-logo="http://185.107.104.199/images/default_picon.png" tvg-id="1:0:1:760E:408:1:C00000:0:0:0:" tvg-name="M+LCAMPEON6",M+LCAMPEON6
+#EXTVLCOPT:program=30222
+
+http://185.107.104.199:8001/1:0:1:760E:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30209" tvg-logo="http://185.107.104.199/images/default_picon.png" tvg-id="1:0:1:7601:408:1:C00000:0:0:0:" tvg-name="M+LCAMPEON7",M+LCAMPEON7
+#EXTVLCOPT:program=30209
+http://185.107.104.199:8001/1:0:1:7601:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30218" tvg-logo="http://185.107.104.199/images/default_picon.png" tvg-id="1:0:1:760A:408:1:C00000:0:0:0:" tvg-name="M+LCAMPEON8",M+LCAMPEON8
+#EXTVLCOPT:program=30218
+http://185.107.104.199:8001/1:0:1:760A:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30212" tvg-logo="http://185.107.104.199/images/default_picon.png" tvg-id="1:0:1:7604:408:1:C00000:0:0:0:" tvg-name="M+LCAMPEON9",M+LCAMPEON9
+#EXTVLCOPT:program=30212
+http://185.107.104.199:8001/1:0:1:7604:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30216" tvg-logo="http://185.107.104.199/images/default_picon.png" tvg-id="1:0:1:7608:408:1:C00000:0:0:0:" tvg-name="M+LCAMPEON10",M+LCAMPEON10
+#EXTVLCOPT:program=30216
+http://185.107.104.199:8001/1:0:1:7608:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30221" tvg-logo="http://185.107.104.199/images/default_picon.png" tvg-id="1:0:1:760D:408:1:C00000:0:0:0:" tvg-name="M+LCAMPEON11",M+LCAMPEON11
+#EXTVLCOPT:program=30221
+http://185.107.104.199:8001/1:0:1:760D:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30223" tvg-logo="http://185.107.104.199/images/default_picon.png" tvg-id="1:0:1:760F:408:1:C00000:0:0:0:" tvg-name="M+LCAMPEON12",M+LCAMPEON12
+#EXTVLCOPT:program=30223
+http://185.107.104.199:8001/1:0:1:760F:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30210" tvg-logo="http://185.107.104.199/picon/1_0_1_7602_408_1_C00000_0_0_0.png" tvg-id="1:0:1:7602:408:1:C00000:0:0:0:" tvg-name="M+LCAMPEON13",M+LCAMPEON13
+
+
+
+http://185.107.104.199:8001/1:0:1:7472:3F0:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30353" tvg-logo="http://185.107.104.199/picon/1_0_1_7691_41E_1_C00000_0_0_0.png" tvg-id="1:0:1:7691:41E:1:C00000:0:0:0:" tvg-name="DAZN LaLiga 2",DAZN LaLiga 2
 
 
 
