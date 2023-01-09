@@ -1,5 +1,23 @@
 
+
+
+
+
+
+
+
 #EXTM3U 
+
+
+http://185.107.104.199:8101/1:0:19:78B5:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="29967" tvg-logo="http://185.107.104.199/picon/1_0_19_750F_420_1_C00000_0_0_0.png" tvg-id="1:0:19:750F:420:1:C00000:0:0:0:" tvg-name="M+LaLigaTVHD",M+LaLigaTVHD
+
+
+
+
+
+
+
 #EXTVLCOPT:http-reconnect=true 
 #EXTINF:-1,DAZN LaLigaHD
 http://185.107.104.199:8101/1:0:19:7884:414:1:C00000:0:0:0:
@@ -7,8 +25,7 @@ http://185.107.104.199:8101/1:0:19:7884:414:1:C00000:0:0:0:
 
 #EXTVLCOPT:http-reconnect=true 
 #EXTINF:-1,M+ LaLiga HD
-http://185.107.104.199:8101/1:0:19:750F:420:1:C00000:0:0:0:
-
+http://185.107.104.199:8101/1:0:19:78B5:3EC:1:C00000:0:0:0:
 
 
 
