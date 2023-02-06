@@ -11,12 +11,6 @@
 
 
 
-#EXTVLCOPT:http-reconnect=true 
-#EXTINF:-1,LA 1 HD
-#EXTVLCOPT:program=30819
-http://-sid:876c53d83826a090f2d9a671dbdeae6f3eb59a09d3e49efe185d17a5d1a4ca97@185.107.104.199:8101/1:0:19:7863:41A:1:C00000:0:0:0:
-
-
 
 
 #EXTVLCOPT:http-reconnect=true 
