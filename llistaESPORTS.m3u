@@ -8,11 +8,9 @@
 
 #EXTM3U 
 
-#EXTM3U 
-#EXTVLCOPT:http-reconnect=true
+
 #EXTINF:-1 tvg-chno="29967" tvg-logo="http://-sid:b'67ebd86e569c3fa77982fcf941739ea81903d43c6a91da87917bf5f3a0bf0f5e'@185.107.104.199/picon/1_0_19_750F_420_1_C00000_0_0_0.png" tvg-id="1:0:19:750F:420:1:C00000:0:0:0:" tvg-name="M+LaLigaTVHD",M+LaLigaTVHD
-
-
+#EXTVLCOPT:program=29967
 
 
 #EXTINF:-1 tvg-chno="30852" tvg-logo="http://-sid:b'67ebd86e569c3fa77982fcf941739ea81903d43c6a91da87917bf5f3a0bf0f5e'@185.107.104.199/picon/1_0_19_7884_414_1_C00000_0_0_0.png" tvg-id="1:0:19:7884:414:1:C00000:0:0:0:" tvg-name="DAZN LaLigaHD",DAZN LaLigaHD
