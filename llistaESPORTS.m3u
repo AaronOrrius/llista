@@ -1,5 +1,15 @@
 
 
+#EXTM3U 
+
+
+#EXTVLCOPT:program=30803
+http://185.107.104.199:8001/1:0:19:7853:41A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30900" tvg-logo="http://192.168.192.1/picon/1_0_19_78B4_3EC_1_C00000_0_0_0.png" tvg-id="1:0:19:78B4:3EC:1:C00000:0:0:0:" tvg-name="M+LCAMPEONES",M+LCAMPEONES
+#EXTVLCOPT:program=30900
+http://192.168.192.1:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:
+
+
 
 
 
